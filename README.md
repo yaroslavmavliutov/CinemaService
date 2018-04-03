@@ -30,7 +30,7 @@ Database models relations:
  - Film - one to many - BookedPlace (foreign key)
  - Film - one to many - Poster (foreign key)
 
-Database: PostgreSQL
+Database: SQLITE
 
 Frameworks: Django (with Django-REST)
 
